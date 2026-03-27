@@ -23,6 +23,17 @@
 - Bump google.golang.org/protobuf from 1.36.6 to 1.36.7 ([#3841](https://github.com/cosmos/gaia/pull/3841))
 - Bump [docker/login-action](https://github.com/docker/login-action) from 3.4.0 to 3.5.0 ([#3842](https://github.com/cosmos/gaia/pull/3842))
 - Bump [actions/download-artifact](https://github.com/actions/download-artifact) from 4 to 5 ([#3843](https://github.com/cosmos/gaia/pull/3843))
+- Bump github.com/cometbft/cometbft from 0.38.18 to 0.38.21 ([#2](https://github.com/aljo242/gaia/pull/2))
+- Bump go.opentelemetry.io/otel/sdk from 1.37.0 to 1.40.0 ([#2](https://github.com/aljo242/gaia/pull/2))
+- Bump google.golang.org/grpc from 1.74.2 to 1.75.0 ([#2](https://github.com/aljo242/gaia/pull/2))
+- Bump filippo.io/edwards25519 from 1.1.0 to 1.1.1 ([#2](https://github.com/aljo242/gaia/pull/2))
+- Bump github.com/docker/cli from 27.4.1+incompatible to 29.2.0+incompatible ([#2](https://github.com/aljo242/gaia/pull/2))
+- Bump github.com/ethereum/go-ethereum from 1.15.11 to 1.17.0 ([#2](https://github.com/aljo242/gaia/pull/2))
+- Bump github.com/go-viper/mapstructure/v2 from 2.3.0 to 2.4.0 ([#2](https://github.com/aljo242/gaia/pull/2))
+- Bump github.com/hashicorp/go-getter from 1.7.8 to 1.7.9 ([#2](https://github.com/aljo242/gaia/pull/2))
+- Bump github.com/opencontainers/runc from 1.2.3 to 1.2.8 ([#2](https://github.com/aljo242/gaia/pull/2))
+- Bump github.com/ulikunitz/xz from 0.5.11 to 0.5.14 ([#2](https://github.com/aljo242/gaia/pull/2))
+- Bump golang.org/x/crypto from 0.38.0 to 0.44.0 ([#2](https://github.com/aljo242/gaia/pull/2))
 
 ## v25.1.0
 
