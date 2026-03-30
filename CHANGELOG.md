@@ -23,6 +23,21 @@
 - Bump google.golang.org/protobuf from 1.36.6 to 1.36.7 ([#3841](https://github.com/cosmos/gaia/pull/3841))
 - Bump [docker/login-action](https://github.com/docker/login-action) from 3.4.0 to 3.5.0 ([#3842](https://github.com/cosmos/gaia/pull/3842))
 - Bump [actions/download-artifact](https://github.com/actions/download-artifact) from 4 to 5 ([#3843](https://github.com/cosmos/gaia/pull/3843))
+- Bump ajv from 6.12.6 to 6.14.0 ([#4](https://github.com/aljo242/gaia/pull/4))
+- Bump brace-expansion from 1.1.11 to 1.1.13 ([#4](https://github.com/aljo242/gaia/pull/4))
+- Bump path-to-regexp from 0.1.12 to 1.9.0 ([#4](https://github.com/aljo242/gaia/pull/4))
+- Bump js-yaml from 3.14.1 to 3.14.2 ([#4](https://github.com/aljo242/gaia/pull/4))
+- Bump lodash from 4.17.21 to 4.17.23 ([#4](https://github.com/aljo242/gaia/pull/4))
+- Bump mdast-util-to-hast from 13.2.0 to 13.2.1 ([#4](https://github.com/aljo242/gaia/pull/4))
+- Bump minimatch from 3.1.2 to 3.1.5 ([#4](https://github.com/aljo242/gaia/pull/4))
+- Bump minimatch from 9.0.3 to 9.0.9 ([#4](https://github.com/aljo242/gaia/pull/4))
+- Bump node-forge from 1.3.1 to 1.4.0 ([#4](https://github.com/aljo242/gaia/pull/4))
+- Bump picomatch from 2.3.1 to 2.3.2 ([#4](https://github.com/aljo242/gaia/pull/4))
+- Bump yaml from 1.10.2 to 1.10.3 ([#4](https://github.com/aljo242/gaia/pull/4))
+- Bump qs from 6.13.0 to 6.14.2 ([#4](https://github.com/aljo242/gaia/pull/4))
+- Bump svgo from 3.3.2 to 3.3.3 ([#4](https://github.com/aljo242/gaia/pull/4))
+- Bump webpack from 5.99.4 to 5.105.4 ([#4](https://github.com/aljo242/gaia/pull/4))
+- Bump webpack-dev-server from 4.15.2 to 5.2.3 ([#4](https://github.com/aljo242/gaia/pull/4))
 
 ## v25.1.0
 
